@@ -1,0 +1,5 @@
+{
+  "biome.enabled": true,
+  "biome.lsp.bin": "../biome/target/debug/biome",
+  "biome.requireConfiguration": true
+}

@@ -1,0 +1,9 @@
+{
+  "name": "biome-astro-tailwind-sorted-classes-lsp-repro",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "lint": "../biome/target/debug/biome lint .",
+    "rage": "../biome/target/debug/biome rage --linter"
+  }
+}
